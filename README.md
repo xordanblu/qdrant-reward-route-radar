@@ -13,6 +13,12 @@ Reward Route Radar is a non-chatbot Qdrant application that indexes reward oppor
 
 ## Run The Demo
 
+Open the public web demo:
+
+`https://xordanblu.github.io/qdrant-reward-route-radar/`
+
+Or run locally:
+
 ```bash
 python3 -m venv /tmp/qdrant-radar-venv
 /tmp/qdrant-radar-venv/bin/python -m pip install -r rewardops_guard/delivery_kits/qdrant_reward_radar/requirements.txt
@@ -36,6 +42,9 @@ Then open `http://127.0.0.1:8787`.
 
 Primary public repository mirror:
 `https://github.com/xordanblu/qdrant-reward-route-radar`.
+
+Public GitHub Pages demo:
+`https://xordanblu.github.io/qdrant-reward-route-radar/`.
 
 Anonymous GitHub checks for the original `xordanx` mirror returned `404` even
 though the GitHub API reports that repo as public. The `xordanblu` mirror and

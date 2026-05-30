@@ -12,6 +12,10 @@ A non-chatbot Qdrant vector-search dashboard that ranks high-upside reward oppor
 
 https://github.com/xordanblu/qdrant-reward-route-radar
 
+## Public Web Demo
+
+https://xordanblu.github.io/qdrant-reward-route-radar/
+
 Original authoring mirror:
 
 https://github.com/xordanx/qdrant-reward-route-radar
@@ -91,3 +95,6 @@ Submission form: `https://forms.gle/YDQ2TDUi8MqS9Vx28`
 ## Public Access Note
 
 The original `xordanx` GitHub API reports the repository as public (`private=false`, `visibility=public`), but anonymous GitHub web and raw URL checks returned `404` from this environment on 2026-05-30. The `xordanblu` mirror and Catbox MP4/ZIP mirrors above were uploaded and verified with anonymous HTTP `200` checks as fallback artifacts.
+
+GitHub Pages for the `xordanblu` mirror is built and was verified with anonymous HTTP `200` on 2026-05-30:
+`https://xordanblu.github.io/qdrant-reward-route-radar/`.
