@@ -1,6 +1,6 @@
 # Qdrant Reward Route Radar Preflight
 
-Generated: `2026-05-30T14:36:22+00:00`
+Generated: `2026-05-30T14:47:44+00:00`
 Local OK: `true`
 Qdrant client available: `true`
 External submission OK: `false`

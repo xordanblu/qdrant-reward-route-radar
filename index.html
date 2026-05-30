@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Qdrant Reward Route Radar</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #17202a;
+      --muted: #536171;
+      --line: #d8dee8;
+      --panel: #ffffff;
+      --page: #f5f7fb;
+      --teal: #0f766e;
+      --blue: #1d4ed8;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--page);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+    main {
+      width: min(960px, calc(100vw - 32px));
+      margin: 0 auto;
+      padding: 48px 0;
+    }
+    header {
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 24px;
+      margin-bottom: 22px;
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: 34px;
+      letter-spacing: 0;
+    }
+    p {
+      margin: 0 0 14px;
+      color: var(--muted);
+    }
+    section {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 20px;
+      margin: 16px 0;
+    }
+    h2 {
+      margin: 0 0 12px;
+      font-size: 18px;
+      letter-spacing: 0;
+    }
+    ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+    li {
+      margin: 7px 0;
+    }
+    a {
+      color: var(--blue);
+      overflow-wrap: anywhere;
+    }
+    code {
+      background: #edf2f7;
+      border-radius: 4px;
+      padding: 2px 5px;
+      font-size: 0.95em;
+    }
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 16px;
+    }
+    .badge {
+      border: 1px solid #b7dfd8;
+      border-radius: 999px;
+      color: #0f5f58;
+      background: #effaf8;
+      padding: 6px 10px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    video {
+      display: block;
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: #111827;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Qdrant Reward Route Radar</h1>
+      <p>A non-chatbot Qdrant vector-search dashboard that ranks high-upside reward opportunities while blocking unsafe work.</p>
+      <div class="badge-row" aria-label="project properties">
+        <span class="badge">Qdrant vector index</span>
+        <span class="badge">Payload safety filters</span>
+        <span class="badge">Synthetic dataset</span>
+        <span class="badge">72 second demo</span>
+      </div>
+    </header>
+
+    <section>
+      <h2>Demo Video</h2>
+      <video controls preload="metadata">
+        <source src="rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4" type="video/mp4">
+      </video>
+      <p><a href="rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4">Open the MP4 directly</a></p>
+    </section>
+
+    <section>
+      <h2>What It Does</h2>
+      <ul>
+        <li>Indexes reward opportunities as Qdrant vector points with structured payloads.</li>
+        <li>Ranks routes by semantic fit, reward size, risk, and deadline pressure.</li>
+        <li>Blocks social-account, wallet-signing, and secret-disclosure routes.</li>
+        <li>Uses a dashboard and CLI ranking surface instead of a chatbot.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Review Links</h2>
+      <ul>
+        <li><a href="README.md">Repository README</a></li>
+        <li><a href="HACKATHON_SUBMISSION.md">Copy-ready hackathon submission packet</a></li>
+        <li><a href="rewardops_guard/delivery_kits/qdrant_reward_radar/README.md">Qdrant package README</a></li>
+        <li><a href="rewardops_guard/delivery_kits/qdrant_reward_radar/contest_preflight.md">Preflight report</a></li>
+        <li><a href="rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/VIDEO_MANIFEST.md">Video manifest</a></li>
+        <li><a href="rewardops_guard/delivery_kits/qdrant_reward_radar/reward_radar.py">Core Qdrant ranking code</a></li>
+        <li><a href="rewardops_guard/delivery_kits/qdrant_reward_radar/web_demo.py">Local web demo source</a></li>
+        <li><a href="rewardops_guard/delivery_kits/qdrant_reward_radar/test_reward_radar.py">Tests</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Run Locally</h2>
+      <p><code>python3 -m venv /tmp/qdrant-radar-venv</code></p>
+      <p><code>/tmp/qdrant-radar-venv/bin/python -m pip install -r rewardops_guard/delivery_kits/qdrant_reward_radar/requirements.txt</code></p>
+      <p><code>/tmp/qdrant-radar-venv/bin/python -m rewardops_guard.delivery_kits.qdrant_reward_radar.contest_preflight</code></p>
+    </section>
+  </main>
+</body>
+</html>
