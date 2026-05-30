@@ -14,7 +14,7 @@ https://github.com/xordanx/qdrant-reward-route-radar
 
 ## Demo Video
 
-https://github.com/xordanx/qdrant-reward-route-radar/raw/main/rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4
+https://github.com/xordanx/qdrant-reward-route-radar/blob/main/rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4
 
 ## Package Path
 
@@ -56,3 +56,7 @@ python3 -m venv /tmp/qdrant-radar-venv
 ## Contact / Team
 
 Solo project under the GitHub account `xordanx`.
+
+## Share Status
+
+The repository is configured as public through GitHub API (`private=false`). If the form requests a direct video file rather than the GitHub preview page, use the MP4 path above from the repository.
