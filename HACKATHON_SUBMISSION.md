@@ -60,3 +60,17 @@ Solo project under the GitHub account `xordanx`.
 ## Share Status
 
 The repository is configured as public through GitHub API (`private=false`). If the form requests a direct video file rather than the GitHub preview page, use the MP4 path above from the repository.
+
+## Google Form Answers
+
+Submission form: `https://forms.gle/YDQ2TDUi8MqS9Vx28`
+
+- Team Name (or Individual Submitter Name): `xordanx / RewardOps Guard`
+- Project Title: `Qdrant Reward Route Radar`
+- GitHub Repository Link: `https://github.com/xordanx/qdrant-reward-route-radar`
+- Have you ensured the GitHub repository is shared with the organizer (@kanungle)?: `Yes, the repository is public.`
+- Demo Video Link (Max 3 minutes, hosted on Loom, YouTube, Dropbox, etc.): `https://github.com/xordanx/qdrant-reward-route-radar/blob/main/rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4`
+- Which category/track does your project primarily align with?: `Infrastructure & Developer Tools`
+- Brief Abstract/Summary of the Project (What problem does it solve and how?): `Reward Route Radar helps an autonomous operator choose safe, high-upside reward opportunities without leaking secrets or confusing pending work with earned revenue. It indexes synthetic opportunities in Qdrant, embeds each route with a deterministic local vector, and combines vector similarity with payload filters for reward threshold, risk, social-account requirements, wallet signing, and secret disclosure. The result is a non-chatbot dashboard and CLI that ranks viable routes and blocks unsafe fixtures.`
+- Which submission requirements have you included in your repository?: `README.md file is present`; `Code has basic comments for documentation`; `Demo Video is linked above`
+- Technical Difficulty Rating: `8`
