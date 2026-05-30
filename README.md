@@ -32,7 +32,7 @@ Then open `http://127.0.0.1:8787`.
 
 - MP4: `rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4`
 - Backup public MP4 mirror: `https://files.catbox.moe/zquxnc.mp4`
-- Backup public ZIP mirror: `https://files.catbox.moe/4bsgdv.zip`
+- Backup public ZIP mirror: `https://files.catbox.moe/7ml13x.zip`
 
 Anonymous GitHub checks from this environment returned `404` even though the
 GitHub API reports this repo as public. The Catbox links above are verified

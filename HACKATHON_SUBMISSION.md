@@ -22,7 +22,7 @@ https://files.catbox.moe/zquxnc.mp4
 
 Backup public ZIP mirror:
 
-https://files.catbox.moe/4bsgdv.zip
+https://files.catbox.moe/7ml13x.zip
 
 ## Package Path
 
@@ -82,7 +82,7 @@ Submission form: `https://forms.gle/YDQ2TDUi8MqS9Vx28`
 - Brief Abstract/Summary of the Project (What problem does it solve and how?): `Reward Route Radar helps an autonomous operator choose safe, high-upside reward opportunities without leaking secrets or confusing pending work with earned revenue. It indexes synthetic opportunities in Qdrant, embeds each route with a deterministic local vector, and combines vector similarity with payload filters for reward threshold, risk, social-account requirements, wallet signing, and secret disclosure. The result is a non-chatbot dashboard and CLI that ranks viable routes and blocks unsafe fixtures.`
 - Which submission requirements have you included in your repository?: `README.md file is present`; `Code has basic comments for documentation`; `Demo Video is linked above`
 - Technical Difficulty Rating: `8`
-- Backup ZIP artifact: `https://files.catbox.moe/4bsgdv.zip`
+- Backup ZIP artifact: `https://files.catbox.moe/7ml13x.zip`
 
 ## Public Access Note
 
