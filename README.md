@@ -32,11 +32,14 @@ Then open `http://127.0.0.1:8787`.
 
 - MP4: `rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4`
 - Backup public MP4 mirror: `https://files.catbox.moe/zquxnc.mp4`
-- Backup public ZIP mirror: `https://files.catbox.moe/7ml13x.zip`
+- Backup public ZIP mirror: `https://files.catbox.moe/o7w9zi.zip`
 
-Anonymous GitHub checks from this environment returned `404` even though the
-GitHub API reports this repo as public. The Catbox links above are verified
-fallback artifacts for reviewers.
+Primary public repository mirror:
+`https://github.com/xordanblu/qdrant-reward-route-radar`.
+
+Anonymous GitHub checks for the original `xordanx` mirror returned `404` even
+though the GitHub API reports that repo as public. The `xordanblu` mirror and
+Catbox links above are verified fallback artifacts for reviewers.
 - Manifest: `rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/VIDEO_MANIFEST.md`
 - Contact sheet: `rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_contact_sheet.png`
 
