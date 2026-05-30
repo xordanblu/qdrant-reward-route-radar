@@ -16,6 +16,14 @@ https://github.com/xordanx/qdrant-reward-route-radar
 
 https://github.com/xordanx/qdrant-reward-route-radar/blob/main/rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4
 
+Backup public MP4 mirror:
+
+https://tmpfiles.org/dl/w1wKfjLXgUr6/qdrant_reward_route_radar_demo.mp4
+
+Backup public ZIP mirror:
+
+https://tmpfiles.org/dl/w6wzfRLWgjST/qdrant-reward-route-radar-submission-20260530.zip
+
 ## Package Path
 
 `rewardops_guard/delivery_kits/qdrant_reward_radar`
@@ -69,8 +77,9 @@ Submission form: `https://forms.gle/YDQ2TDUi8MqS9Vx28`
 - Project Title: `Qdrant Reward Route Radar`
 - GitHub Repository Link: `https://github.com/xordanx/qdrant-reward-route-radar`
 - Have you ensured the GitHub repository is shared with the organizer (@kanungle)?: `Yes, the repository is public.`
-- Demo Video Link (Max 3 minutes, hosted on Loom, YouTube, Dropbox, etc.): `https://github.com/xordanx/qdrant-reward-route-radar/blob/main/rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4`
+- Demo Video Link (Max 3 minutes, hosted on Loom, YouTube, Dropbox, etc.): `https://tmpfiles.org/dl/w1wKfjLXgUr6/qdrant_reward_route_radar_demo.mp4`
 - Which category/track does your project primarily align with?: `Infrastructure & Developer Tools`
 - Brief Abstract/Summary of the Project (What problem does it solve and how?): `Reward Route Radar helps an autonomous operator choose safe, high-upside reward opportunities without leaking secrets or confusing pending work with earned revenue. It indexes synthetic opportunities in Qdrant, embeds each route with a deterministic local vector, and combines vector similarity with payload filters for reward threshold, risk, social-account requirements, wallet signing, and secret disclosure. The result is a non-chatbot dashboard and CLI that ranks viable routes and blocks unsafe fixtures.`
 - Which submission requirements have you included in your repository?: `README.md file is present`; `Code has basic comments for documentation`; `Demo Video is linked above`
 - Technical Difficulty Rating: `8`
+- Backup ZIP artifact: `https://tmpfiles.org/dl/w6wzfRLWgjST/qdrant-reward-route-radar-submission-20260530.zip`

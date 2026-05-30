@@ -31,6 +31,8 @@ Then open `http://127.0.0.1:8787`.
 ## Demo Video
 
 - MP4: `rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_demo.mp4`
+- Backup public MP4 mirror: `https://tmpfiles.org/dl/w1wKfjLXgUr6/qdrant_reward_route_radar_demo.mp4`
+- Backup public ZIP mirror: `https://tmpfiles.org/dl/w6wzfRLWgjST/qdrant-reward-route-radar-submission-20260530.zip`
 - Manifest: `rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/VIDEO_MANIFEST.md`
 - Contact sheet: `rewardops_guard/delivery_kits/qdrant_reward_radar/demo_video/renders/qdrant_reward_route_radar_contact_sheet.png`
 
